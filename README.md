@@ -186,6 +186,3 @@ Deployed endpoint: [https://bitespeed-k4x7.onrender.com](https://bitespeed-k4x7.
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
